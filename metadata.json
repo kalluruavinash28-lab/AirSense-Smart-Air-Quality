@@ -1,0 +1,6 @@
+{
+  "name": "AirSense – Smart Air Quality Monitoring Platform",
+  "description": "Cloud-ready smart air quality monitoring platform simulating real-time multi-pollutant environmental sensor telemetry, Indian AQI index calculations, live geospatial heat mapping, dynamic threshold alerts, analytics trends, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
